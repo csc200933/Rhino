@@ -17,7 +17,7 @@ public class Rhino {
 
     	if (args.length <= 0){
     		System.out.println("使用方法");
-    		System.out.println("Greeting1 jsfile");
+    		System.out.println("Rhino jsfile");
     		return;
     	}
 
